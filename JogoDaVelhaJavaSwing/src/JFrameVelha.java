@@ -82,7 +82,7 @@ public class JFrameVelha extends javax.swing.JFrame {
         {
             if(jogadas == 9)
             {
-                JOptionPane.showMessageDialog(null, "Deu Velha!! (Empate)");
+                JOptionPane.showMessageDialog(null, "Deu Velha!! (Empate - teste novamente!)");
                 btnRecomecarActionPerformed(null);
                 return;
             }
