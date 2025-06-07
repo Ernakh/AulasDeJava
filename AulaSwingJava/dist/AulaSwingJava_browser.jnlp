@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="AulaSwingJava_browser.jnlp">
+  <information>
+    <title>AulaSwingJava</title>
+    <vendor>86205</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="AulaSwingJava.jar" size="3648" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="JFrameInicial"  name="AulaSwingJava" >
+  </applet-desc>
+  <update check="always"/>
+</jnlp>

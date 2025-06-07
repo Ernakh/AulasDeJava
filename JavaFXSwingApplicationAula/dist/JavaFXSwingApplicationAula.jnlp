@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="JavaFXSwingApplicationAula.jnlp">
+  <information>
+    <title>JavaFXSwingApplicationAula</title>
+    <vendor>86205</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="JavaFXSwingApplicationAula.jar" size="5378" download="eager" />
+  </resources>
+  <application-desc main-class="NewJFrame"  name="JavaFXSwingApplicationAula" >
+  </application-desc>
+  <update check="always"/>
+</jnlp>
